@@ -1,0 +1,255 @@
+body {
+  padding: 0;
+}
+.down {
+  z-index: 1;
+
+}
+.down img {
+  position: fixed;
+  margin-left: 46.5%;
+  width: 50px;
+  margin-top: -30px;
+}
+.down img:hover {
+opacity: 0.8;
+}
+.scrol {
+
+  z-index: 2;
+  margin-top: -1.5%;
+  padding: 5px;
+  background-color: #537c8e;
+  color:#eff1e4;
+  width:100%;
+font-size: 1.1em;
+height: 100px;
+}
+.inf {
+
+}
+
+.logo {
+  width: 5%;
+
+}
+.logo h1 {
+margin: 25%;
+}
+.cont {
+  margin-top:-3%;
+  width: 20%;
+  margin-left: 40%;
+}
+.lang {
+  margin-top: -25px;
+  width: 5%;
+  margin-left: 90%;
+}
+.cont a {
+  color:#eff1e4;
+  margin: 2%;
+  font-size: 1em;
+
+
+}
+.lang a {
+  color:#eff1e4;
+  font-size: 1.2em;
+
+}
+.up {
+  margin-left: 46.5%;
+}
+.up img {
+  width: 50px;
+}
+.up img:hover {
+  width: 45px;
+  margin-top: 2.5px;
+  margin-left: 2.5px;
+
+}
+.vertical-menu {
+    width: 50px;
+}
+.soc ul {
+  background-color: #eff1e4;
+  width: 25px;
+  border-radius:5%;
+  clear:both;
+}
+.soc li {
+    list-style-type: none;
+    margin: 2%;
+    margin-left: -130%;
+   }
+.soc {
+margin-left: 1%;
+clear: both;
+
+}
+.soc a img {
+  width: 50px;
+}
+.soc a img:hover {
+opacity:0.5;
+}
+.centr{
+  margin: 12px 150px;
+  clear: both;
+}
+.photo  {
+  float:left;
+  width: 400px;
+  height: 600px;
+  bottom: 15%;
+  margin-top:-230px;
+  border: 10px solid #6cb4b8;
+  border-radius: 5%;
+  margin-bottom: 20px;
+}
+.biog  {
+
+  top:150px;
+  float: right;
+  color: white;
+  width: 400px;
+  height: 600px;
+  clear: both;
+  bottom: 500px;
+  margin-top:-640px;
+  border: 10px solid #6cb4b8;
+  background:#6cb4b8;
+  border-radius: 5%;
+  margin-bottom: 20px;
+
+
+}
+span {
+  font-size: 1.2em;
+  text-decoration: italic;
+}
+.learn h1, .skills h1 {
+  color: #eff1e4;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+
+}
+.learn img {
+  float: left;
+  width: 300px;
+  height: 200px;
+  border-radius: 5%;
+  margin-right: 40px;
+}
+.learn {
+  margin-top: 50px;
+  clear: both;
+  background-color: #537c8e;
+  height: 500px;
+  padding-top: 5px;
+  padding: 12px 150px;
+
+
+}
+.linf {
+  float: left;
+  width: 800px;
+  color: #eff1e4;
+  padding-top: 35px;
+}
+.un img {
+  float: right;
+  margin-top: 50px;
+}
+.dost {
+  clear: both;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.dost h1, .goals h1 {
+  color: #6cb4b8;
+  font-size: 2.5em;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+
+}
+.dost img  {
+  float: left;
+  width:40%;
+  border-radius: 5%;
+  margin: 30px;
+}
+.tsinf {
+  float: left;
+width: 500px;
+margin-top: 40px;
+
+}
+.tsinf li {
+  text-align: left;
+margin-bottom: 55px;
+  clear: both;
+  width: 500px;
+  list-style-type: none;
+}
+.goals {
+  clear: both;
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-bottom: 10%;
+}
+.goals h1 {
+  margin: 4%;
+}
+.goals img {
+  width: 50%;
+  height: 380px;
+  float: right;
+  border-radius: 5%;
+  margin-bottom: 30px;
+}
+.goals ul img  {
+margin-top: -5px;
+}
+.goals .tsinf {
+margin-top: 0px;
+}
+.goals li {
+  margin-top: 1%;
+}
+.tsinf img  {
+  width: 40px;
+  height: auto;
+  margin-top: -10px;
+}
+.skills {
+  padding-top: 0.5%;
+  clear: both;
+  height: 550px;
+  background-color: #537c8e;
+}
+.skills h1 {
+}
+.skills img {
+  float: left;
+width: 40%;
+margin-left: 7%;
+}
+.skills .tsinf li {
+  color: white;
+}
+.footer {
+  background-color: #da7015;
+  height: 80px;
+}
+.footer h1 {
+  color: white;
+  font-size: 2.5em;
+  font-style: italic;
+  text-align: right;
+  text-decoration: underline;
+}
